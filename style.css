@@ -1,0 +1,45 @@
+.header {
+  height: 100px;
+  background-color: red;
+}
+.container {
+  overflow: hidden;
+  border: 10px solid orange;
+}
+.blog {
+  float: left;
+  height: 150px;
+  width: 60%;
+  background-color: green;
+}
+.contact {
+  float: right;
+  height: 150px;
+  width: 40%;
+  background-color: blue;
+  border-left: 5px solid black;
+  box-sizing: border-box;
+}
+.wrapper {
+  overflow: hidden;
+}
+.item {
+  height: 100px;
+  width: 33.33%;
+  float: left;
+}
+.yellow {
+  background-color: yellow;
+}
+.tamato {
+  background-color: tomato;
+}
+.lightblue {
+  background-color: lightblue;
+}
+
+.footer {
+  /* clear: both; */
+  height: 100px;
+  background-color: black;
+}
